@@ -1,7 +1,7 @@
 /* MaqamAI service worker: uygulamayı cihaza kaydeder (internetsiz açılış), yazı tiplerini
    önbelleğe alır ve Android'deki "Paylaş → MaqamAI" ile gelen dosya ve bağlantıları karşılar.
    Bağlantıdan indirilen ses dosyalarına dokunmaz; onlar doğrudan ağdan gelir. */
-const VERSION = '17fc4caa135c';
+const VERSION = '386a6d44fd8a';
 const APP = `mq-app-${VERSION}`;
 const RUNTIME = 'mq-runtime';
 const SHARE = 'mq-share';

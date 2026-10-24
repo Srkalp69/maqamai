@@ -6,11 +6,13 @@ Kurulum için klasörün bir **https** adresinde yayımlanması gerekir. Dosyala
 
 ## 1. Yayımlama (bir kez)
 
-**Netlify Drop (en hızlı; mağazaya göndermek için önerilir)**
+**Netlify (en kolayı; mağazaya göndermek için de önerilir)**
 
-1. app.netlify.com/drop sayfasını açın.
-2. Bu klasörü sayfaya sürükleyip bırakın. Adres hemen hazır olur.
-3. Adresin kalıcı olması için ücretsiz hesap açıp siteyi sahiplenin.
+1. netlify.com'da ücretsiz bir hesap açın.
+2. Giriş yapmışken app.netlify.com/drop sayfasını açın ve bu klasörü sayfaya sürükleyip bırakın.
+3. Birkaç saniye içinde `https://….netlify.app` biçiminde bir adres hazır olur. Adı site ayarlarından değiştirebilirsiniz.
+
+Hesap açmadan bırakılan siteler şifreli kalır ve bir süre sonra silinir; bu yüzden önce hesap açın.
 
 **GitHub Pages (ücretsiz, kalıcı)**
 
